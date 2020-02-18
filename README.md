@@ -82,6 +82,7 @@ Flight data of a VFW-Fokker 614 (left and right figure), provided by Reis (2016)
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+<!---
 # Citation
 If you use ICXS in your research, I would appreciate a citation to this work. For now you can use the following BibTeX code:
 
@@ -95,3 +96,4 @@ If you use ICXS in your research, I would appreciate a citation to this work. Fo
     KEYWORDS = {Aeron{\'a}utica. Teste de voo. Interface Gr{\'a}fica do Usu{\'a}rio. An{\'a}lise de dados. An{\'a}lise de incerteza}
 }
 ```
+-->
